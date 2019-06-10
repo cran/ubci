@@ -1,7 +1,12 @@
+# ubci 0.0.5
+
+## ubci 0.0.4
+
+* Fix test using date params.
+
 ## ubci 0.0.3
 
 * Fix bugs from `tidyr::unnest()`.
-
 
 ## ubci 0.0.2
 
